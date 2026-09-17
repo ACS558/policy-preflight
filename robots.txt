@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://acs558.github.io/policy-preflight/sitemap.xml
