@@ -1,0 +1,154 @@
+POLICY CHANGE PREFLIGHT — TRUSTED GUIDANCE
+
+Knowledge version: 1.0
+
+Last updated: September 17, 2026
+
+Document type: Fictional demonstration knowledge
+
+Scope: Internal policy changes only.
+
+This knowledge source is fictional demonstration material created specifically for the Agent-a-thon prototype. It does not represent the policies of a real organization.
+
+1. CHANGE POLICY
+
+Every internal policy change must include:
+
+- A clear summary of the proposed change
+- The rationale for the change
+- A list of impacted teams
+- A risk rating
+- A proposed rollout date
+- A rollback plan
+
+Approval chain:
+
+Policy Owner → Department Head → Governance Council
+
+Minimum review period:
+
+Policy changes require a minimum review period of 5 business days before approval.
+
+2. SECURITY AND COMPLIANCE
+
+Policies affecting customer data must align with the Data Handling Standard.
+
+Any policy change that reduces the strength of an existing control requires Security review.
+
+If compliance language is unclear, the change must be escalated to Governance for clarification.
+
+3. BRAND AND COMMUNICATIONS
+
+Customer-facing policy text must follow the Plain Language Style Guide.
+
+Major policy changes require a communication plan containing:
+
+- Target audience
+- Communication channel
+- Communication timing
+- Frequently asked questions (FAQ)
+
+4. PREFLIGHT CHECKLIST
+
+Before a policy change proceeds, review the following areas.
+
+Dependencies:
+
+- Related policies
+- Related processes
+- Related tools
+
+Impacted Teams:
+
+- Teams affected by the change
+- Relevant owners
+- Required reviewers
+
+Compliance:
+
+- Customer-data impact
+- Privacy impact
+- Regulatory impact
+
+Risk:
+
+- Low, medium, or high rating
+- One-line justification
+
+Rollout:
+
+- Proposed date
+- Rollout steps
+- Responsible owner
+
+Rollback:
+
+- Trigger conditions
+- Rollback steps
+Communication:
+
+- Communication plan for major policy changes
+- Audience
+- Channel
+- Timing
+- FAQ
+
+5. ESCALATION RULES
+
+Missing rollback plan:
+
+Escalate to the Policy Owner.
+
+Security or compliance ambiguity:
+
+Escalate to Security or Governance.
+
+Conflicting guidance:
+
+Pause the change and escalate to the Governance Council.
+
+6A. RISK ASSESSMENT LIMITATION
+
+The knowledge source requires every policy change to have a low, medium, or high risk rating with a one-line justification.
+
+However, this knowledge source does not define objective criteria for assigning a specific risk rating.
+
+Therefore, when sufficient information is not available, the assistant must identify relevant risk factors and state that the final risk rating requires human assessment.
+
+The assistant must not invent a risk rating merely to complete the checklist.
+
+6B. MAJOR POLICY CHANGE CLASSIFICATION LIMITATION
+
+Section 3 requires a communication plan for major policy changes.
+
+However, this knowledge source does not define objective criteria for determining whether a policy change is major or non-major.
+
+Therefore, when the proposal does not clearly establish whether the change is a major policy change, the assistant must identify this as Needs verification and state that a human determination of major or non-major status is required before the communication requirement can be confirmed.
+
+The assistant must not assume that a policy change is major or non-major merely to complete the checklist.
+
+Important distinction:
+
+"Major policy change" refers to the type or scale of the policy change.
+
+"Major" as a finding severity refers only to the priority of an identified finding.
+
+7. INFORMATION LIMITATIONS
+
+This knowledge source does not contain:
+
+- Specific organizational structure beyond the stated approval chain
+- Actual employee or customer data
+- Actual contracts
+- Legal advice
+- Detailed regulatory requirements
+- Actual IT-system architecture
+- Actual business processes
+- Actual customer records
+
+When information is not available, the assistant must identify it as Needs verification rather than assuming an answer.
+
+The assistant must not guess, infer unsupported requirements, or present assumptions as facts.
+
+END OF TRUSTED GUIDANCE
+
